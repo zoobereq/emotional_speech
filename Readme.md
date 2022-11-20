@@ -1,6 +1,7 @@
-## Audio Features Extractor
+## Emotional Speech Analyzer
 
-A script extracting audio features from emotionally charged speech samples.
+A script extracting audio features from emotionally charged speech.
+
 The following features are extracted:
 - Pitch (f0 min, f0 max, and f0 mean) measured in Hz
 - Intensity (min, max, and mean) measured in dB
