@@ -18,5 +18,5 @@ The script uses [Parselmouth](https://parselmouth.readthedocs.io/en/latest/index
 - HNR (harmonics-to-noise ratio) is calculated based on harmonicity. For harmonicity time step is set to 0.01, minimum pitch to 75Hz, silence threshold to 0.1, and number of periods per window to 1.0.
 
 ### Data
-A good source of audio data for emotional speech analysis is the [MSP-Podcast corpus](https://ecs.utdallas.edu/research/researchlabs/msp-lab/MSP-Podcast.html). A handful of adapted examples can be downloaded witht he included Bash script. The examples consists of seven files, each of which illustrates a different emotional state. The transcripts of the sample files are attached.
+A good source of audio data for emotional speech analysis is the [MSP-Podcast corpus](https://ecs.utdallas.edu/research/researchlabs/msp-lab/MSP-Podcast.html). A handful of adapted examples can be downloaded with the included Bash script. The examples consists of seven files, each of which illustrates a different emotional state. The transcripts of the sample files are attached.
 
